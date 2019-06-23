@@ -1,0 +1,12 @@
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.exe
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.deps.json
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.runtimeconfig.json
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.runtimeconfig.dev.json
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.dll
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\bin\Debug\netcoreapp3.0\DaysOfWeekList.pdb
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.csprojAssemblyReference.cache
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.csproj.CoreCompileInputs.cache
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.AssemblyInfoInputs.cache
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.AssemblyInfo.cs
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.dll
+H:\C#\C#Collections\daysOfWeek\src\DaysOfWeekList\obj\Debug\netcoreapp3.0\DaysOfWeekList.pdb
