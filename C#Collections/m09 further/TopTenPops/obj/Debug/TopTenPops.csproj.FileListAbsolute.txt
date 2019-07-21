@@ -1,2 +1,0 @@
-H:\C#\C#Collections\m09 further\TopTenPops\bin\Debug\TopTenPops.exe.config
-H:\C#\C#Collections\m09 further\TopTenPops\obj\Debug\TopTenPops.csprojResolveAssemblyReference.cache
