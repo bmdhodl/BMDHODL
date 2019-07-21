@@ -1,0 +1,10 @@
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.Common.dll
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojResolveAssemblyReference.cache
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.dll
+H:\C#\OOP\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.pdb
