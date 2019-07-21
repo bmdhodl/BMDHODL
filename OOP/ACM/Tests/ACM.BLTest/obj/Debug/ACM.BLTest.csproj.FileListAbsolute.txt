@@ -1,9 +1,0 @@
-H:\C#\OOP\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
-H:\C#\OOP\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
-H:\C#\OOP\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.dll
-H:\C#\OOP\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.pdb
