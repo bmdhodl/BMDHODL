@@ -1,5 +1,0 @@
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Release\GameConsole.exe.config
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Release\GameConsole.exe
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Release\GameConsole.pdb
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\obj\Release\GameConsole.exe
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\obj\Release\GameConsole.pdb

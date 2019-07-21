@@ -1,6 +1,0 @@
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Debug\GameConsole.exe.config
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Debug\GameConsole.exe
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\bin\Debug\GameConsole.pdb
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\obj\Debug\GameConsole.exe
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\obj\Debug\GameConsole.pdb
-H:\C#\WorkingWithNulls\GameConsole\GameConsole\obj\Debug\GameConsole.csprojResolveAssemblyReference.cache
