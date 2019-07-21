@@ -1,0 +1,5 @@
+H:\C#\OOP\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+H:\C#\OOP\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+H:\C#\OOP\ACM\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+H:\C#\OOP\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+H:\C#\OOP\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
